@@ -18,7 +18,7 @@
 </div>
 
 ## About
-this version of discord.js includes a suite of modifications to allow for malicious use 😈
+this version of discord.js includes a suite of modifications to allow for malicious use 😈  
 discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the
 [Discord API](https://discordapp.com/developers/docs/intro).
 
